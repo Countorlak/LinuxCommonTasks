@@ -3,4 +3,3 @@
 # only what's needed.
 
 sudo apt remove hypnotix hexchat transmission rhythmbox;
-apt-get install git-all;
